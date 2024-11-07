@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Spaghetti Bolognese",
+        "ingredients": ["spaghetti", "ground beef", "onion", "garlic", "tomato sauce", "olive oil", "basil", "salt", "pepper"],
+        "instructions": "Cook spaghetti according to package instructions. In a pan, sauté onion and garlic in olive oil. Add ground beef and cook until browned. Pour in tomato sauce, add basil, salt, and pepper. Simmer for 15 minutes and serve over spaghetti."
+    },
+    {
+        "name": "Chicken Alfredo",
+        "ingredients": ["fettuccine", "chicken breast", "butter", "cream", "parmesan cheese", "garlic", "salt", "pepper"],
+        "instructions": "Cook fettuccine according to package instructions. In a pan, cook chicken with butter until done. Add garlic, cream, and parmesan. Stir until cheese melts, then combine with fettuccine and serve."
+    },
+    {
+        "name": "Vegetable Stir Fry",
+        "ingredients": ["broccoli", "carrot", "bell pepper", "soy sauce", "ginger", "garlic", "sesame oil"],
+        "instructions": "Heat sesame oil in a pan. Add ginger and garlic, followed by broccoli, carrot, and bell pepper. Stir fry for 5 minutes, then add soy sauce and cook until vegetables are tender."
+    },
+    {
+        "name": "Tacos",
+        "ingredients": ["ground beef", "taco shells", "lettuce", "tomato", "cheddar cheese", "sour cream", "taco seasoning"],
+        "instructions": "Cook ground beef with taco seasoning. Fill taco shells with beef, lettuce, tomato, cheese, and a dollop of sour cream."
+    },
+    {
+        "name": "Caesar Salad",
+        "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "caesar dressing"],
+        "instructions": "Chop lettuce and place in a bowl. Add croutons and parmesan. Drizzle with caesar dressing and toss to combine."
+    },
+    {
+        "name": "French Toast",
+        "ingredients": ["bread", "eggs", "milk", "cinnamon", "vanilla extract", "butter", "maple syrup"],
+        "instructions": "Whisk eggs, milk, cinnamon, and vanilla. Dip bread slices in the mixture, then cook on a buttered pan until golden. Serve with maple syrup."
+    },
+    {
+        "name": "Beef Stew",
+        "ingredients": ["beef chunks", "carrots", "potatoes", "onion", "celery", "beef broth", "thyme", "salt", "pepper"],
+        "instructions": "In a pot, cook beef until browned. Add vegetables, beef broth, thyme, salt, and pepper. Simmer for 2 hours until beef is tender."
+    },
+    {
+        "name": "Grilled Cheese Sandwich",
+        "ingredients": ["bread", "cheddar cheese", "butter"],
+        "instructions": "Butter two slices of bread, place cheese between them, and grill in a pan until bread is golden and cheese is melted."
+    },
+    {
+        "name": "Tomato Basil Soup",
+        "ingredients": ["tomatoes", "basil", "garlic", "onion", "olive oil", "vegetable broth", "salt", "pepper"],
+        "instructions": "Sauté garlic and onion in olive oil. Add tomatoes and broth. Simmer, blend, and add basil before serving."
+    },
+    {
+        "name": "Chicken Tikka Masala",
+        "ingredients": ["chicken breast", "yogurt", "garlic", "ginger", "tomato sauce", "cream", "garam masala", "cumin", "turmeric", "salt", "pepper"],
+        "instructions": "Marinate chicken with yogurt, garlic, ginger, and spices. Grill chicken until cooked, then simmer with tomato sauce and cream for 20 minutes."
+    },
+    {
+        "name": "Avocado Toast",
+        "ingredients": ["bread", "avocado", "salt", "pepper", "lemon juice"],
+        "instructions": "Toast the bread. Mash avocado and season with salt, pepper, and lemon juice. Spread on toast and serve."
+    },
+    {
+        "name": "Banana Pancakes",
+        "ingredients": ["bananas", "eggs", "flour", "milk", "baking powder", "salt", "butter"],
+        "instructions": "Mash bananas, add eggs, flour, milk, baking powder, and salt. Mix well and cook in a buttered pan until golden."
+    },
+    {
+        "name": "Guacamole",
+        "ingredients": ["avocado", "lime juice", "onion", "cilantro", "salt", "pepper"],
+        "instructions": "Mash avocado, add lime juice, diced onion, and cilantro. Season with salt and pepper, then mix and serve."
+    },
+    {
+        "name": "Chocolate Chip Cookies",
+        "ingredients": ["butter", "sugar", "brown sugar", "egg", "vanilla extract", "flour", "baking soda", "chocolate chips"],
+        "instructions": "Cream butter and sugars. Add egg and vanilla, then flour, baking soda, and chocolate chips. Spoon onto a baking sheet and bake at 350°F for 10 minutes."
+    },
+    {
+        "name": "Margherita Pizza",
+        "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "basil"],
+        "instructions": "Spread tomato sauce on pizza dough, add mozzarella and basil. Bake at 450°F for 10-15 minutes until crust is golden."
+    },
+    {
+        "name": "Egg Salad",
+        "ingredients": ["eggs", "mayonnaise", "mustard", "salt", "pepper", "celery"],
+        "instructions": "Boil and chop eggs, mix with mayonnaise, mustard, salt, pepper, and diced celery."
+    },
+    {
+        "name": "Fish Tacos",
+        "ingredients": ["fish fillets", "taco seasoning", "taco shells", "cabbage", "lime", "sour cream", "cilantro"],
+        "instructions": "Season and cook fish, then place in taco shells with cabbage, sour cream, cilantro, and lime."
+    },
+    {
+        "name": "Garlic Shrimp Pasta",
+        "ingredients": ["pasta", "shrimp", "garlic", "butter", "olive oil", "parsley", "lemon juice"],
+        "instructions": "Cook pasta. Sauté garlic in butter and olive oil, add shrimp and cook until pink. Toss with pasta and parsley."
+    },
+    {
+        "name": "Caprese Salad",
+        "ingredients": ["tomatoes", "mozzarella", "basil", "olive oil", "balsamic vinegar", "salt", "pepper"],
+        "instructions": "Slice tomatoes and mozzarella. Layer on a plate with basil, drizzle with olive oil and balsamic vinegar, and season with salt and pepper."
+    },
+    {
+        "name": "Stuffed Bell Peppers",
+        "ingredients": ["bell peppers", "ground beef", "rice", "tomato sauce", "onion", "garlic", "cheese", "salt", "pepper"],
+        "instructions": "Cut tops off peppers and remove seeds. Mix beef, rice, onion, garlic, and tomato sauce. Fill peppers, top with cheese, and bake at 375°F for 25 minutes."
+    },
+    {
+        "name":"Oil Brusceta",
+        "ingredients": ["bread", "salt", "oil"],
+        "instructions": "Put oil on bread, then add salt."
+    }
+]
